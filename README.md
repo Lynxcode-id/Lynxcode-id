@@ -14,7 +14,6 @@
 
 <p align="center">
   <a href="https://github.com/Lynxcode-id"><img src="https://img.shields.io/github/followers/Lynxcode-id?label=Followers&style=flat-square&color=25D366&labelColor=111827"/></a>
-  <a href="https://github.com/Lynxcode-id?tab=repositories"><img src="https://img.shields.io/github/stars/Lynxcode-id?label=Stars&style=flat-square&color=25D366&labelColor=111827"/></a>
   <img src="https://komarev.com/ghpvc/?username=Lynxcode-id&label=Profile%20Views&color=25D366&style=flat-square"/>
   <img src="https://img.shields.io/github/last-commit/Lynxcode-id/ERINE-AI?label=ERINE-AI%20Last%20Commit&style=flat-square&color=25D366&labelColor=111827"/>
 </p>
@@ -278,22 +277,23 @@ Bot WhatsApp Li-Shiya MD.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Lynxcode-id&show_icons=true&hide_border=true&bg_color=111827&title_color=25D366&text_color=E5E7EB&icon_color=25D366&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lynxcode-id&layout=compact&hide_border=true&bg_color=111827&title_color=25D366&text_color=E5E7EB"/>
+  <img src="https://streak-stats.demolab.com?user=Lynxcode-id&hide_border=true&background=111827&ring=25D366&fire=25D366&currStreakLabel=25D366&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Lynxcode-id&hide_border=true&background=111827&ring=25D366&fire=25D366&currStreakLabel=25D366&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lynxcode-id&theme=onedark&no-frame=true&row=1&column=7"/>
-</p>
+<div align="center">
+<table>
+<tr><th>Repo</th><th>⭐ Stars / Forks</th><th>🕒 Last Commit</th><th>💻 Bahasa</th><th>📦 Size</th></tr>
+<tr><td><a href="https://github.com/Lynxcode-id/ERINE-AI"><b>ERINE-AI</b></a></td><td><img src="https://img.shields.io/github/stars/Lynxcode-id/ERINE-AI?style=flat-square&color=25D366&labelColor=111827"/> <img src="https://img.shields.io/github/forks/Lynxcode-id/ERINE-AI?style=flat-square&color=25D366&labelColor=111827"/></td><td><img src="https://img.shields.io/github/last-commit/Lynxcode-id/ERINE-AI?style=flat-square&color=25D366&labelColor=111827"/></td><td><img src="https://img.shields.io/github/languages/top/Lynxcode-id/ERINE-AI?style=flat-square&color=25D366&labelColor=111827"/></td><td><img src="https://img.shields.io/github/repo-size/Lynxcode-id/ERINE-AI?style=flat-square&color=25D366&labelColor=111827"/></td></tr>
+<tr><td><a href="https://github.com/Lynxcode-id/elyrine"><b>Elyrine</b></a></td><td><img src="https://img.shields.io/github/stars/Lynxcode-id/elyrine?style=flat-square&color=25D366&labelColor=111827"/> <img src="https://img.shields.io/github/forks/Lynxcode-id/elyrine?style=flat-square&color=25D366&labelColor=111827"/></td><td><img src="https://img.shields.io/github/last-commit/Lynxcode-id/elyrine?style=flat-square&color=25D366&labelColor=111827"/></td><td><img src="https://img.shields.io/github/languages/top/Lynxcode-id/elyrine?style=flat-square&color=25D366&labelColor=111827"/></td><td><img src="https://img.shields.io/github/repo-size/Lynxcode-id/elyrine?style=flat-square&color=25D366&labelColor=111827"/></td></tr>
+<tr><td><a href="https://github.com/Lynxcode-id/ERINE-MD"><b>ERINE-MD</b></a></td><td><img src="https://img.shields.io/github/stars/Lynxcode-id/ERINE-MD?style=flat-square&color=25D366&labelColor=111827"/> <img src="https://img.shields.io/github/forks/Lynxcode-id/ERINE-MD?style=flat-square&color=25D366&labelColor=111827"/></td><td><img src="https://img.shields.io/github/last-commit/Lynxcode-id/ERINE-MD?style=flat-square&color=25D366&labelColor=111827"/></td><td><img src="https://img.shields.io/github/languages/top/Lynxcode-id/ERINE-MD?style=flat-square&color=25D366&labelColor=111827"/></td><td><img src="https://img.shields.io/github/repo-size/Lynxcode-id/ERINE-MD?style=flat-square&color=25D366&labelColor=111827"/></td></tr>
+<tr><td><a href="https://github.com/Lynxcode-id/Li-Shiya-MD"><b>Li-Shiya-MD</b></a></td><td><img src="https://img.shields.io/github/stars/Lynxcode-id/Li-Shiya-MD?style=flat-square&color=25D366&labelColor=111827"/> <img src="https://img.shields.io/github/forks/Lynxcode-id/Li-Shiya-MD?style=flat-square&color=25D366&labelColor=111827"/></td><td><img src="https://img.shields.io/github/last-commit/Lynxcode-id/Li-Shiya-MD?style=flat-square&color=25D366&labelColor=111827"/></td><td><img src="https://img.shields.io/github/languages/top/Lynxcode-id/Li-Shiya-MD?style=flat-square&color=25D366&labelColor=111827"/></td><td><img src="https://img.shields.io/github/repo-size/Lynxcode-id/Li-Shiya-MD?style=flat-square&color=25D366&labelColor=111827"/></td></tr>
+</table>
+</div>
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lynxcode-id&bg_color=111827&color=25D366&line=25D366&point=FFFFFF&area=true&hide_border=true"/>
+  <a href="https://github.com/Lynxcode-id"><img src="https://ghchart.rshah.org/25D366/Lynxcode-id" alt="Contribution chart Lynxcode-id" width="100%"/></a>
 </p>
 
 ---
@@ -307,7 +307,7 @@ Bot WhatsApp Li-Shiya MD.
 <br>
 
 <p align="center">
-  <img src="scene.svg" alt="Lynx Ecosystem animated scene" width="100%"/>
+  <img src="war.svg" alt="Lynx Ecosystem animated scene" width="100%"/>
 </p>
 
 <p align="center">
