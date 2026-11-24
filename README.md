@@ -1,10 +1,10 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="assets/particles.svg" alt="LYNX ECOSYSTEM" width="100%"/>
+  <img src="particles.svg" alt="LYNX ECOSYSTEM" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=25D366&center=true&vCenter=true&width=850&lines=Selamat+Datang+di+Pusat+Informasi+Utama+LYNX;WhatsApp+Bot+Developer+%7C+Node.js+%7C+Baileys+%7C+Zapo;Building+ERINE-AI+%26+Elyrine;Plugin+%7C+Downloader+%7C+Tools+%7C+Game+RPG;Build+Smart+System+%7C+Automate+Everything" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=25D366&center=true&vCenter=true&width=850&lines=Selamat+Datang+di+Pusat+Informasi+Utama+LYNX;WhatsApp+Bot+Developer+%7C+Node.js+%7C+Baileys+%7C+Zapo;Building+ERINE-AI+%26+Elyrine+%26+Elyra;Plugin+%7C+Downloader+%7C+Scraper+%7C+REST+API;Build+Smart+System+%7C+Automate+Everything" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -23,25 +23,26 @@
   <a href="https://saweria.co/LynxPreset"><img src="https://img.shields.io/badge/Support-Saweria-FFBA08?style=for-the-badge&logo=ko-fi&logoColor=111827"/></a>
 </p>
 
-<p align="center"><img src="assets/divider.svg" width="100%"/></p>
+<p align="center"><img src="divider.svg" width="100%"/></p>
 
 <!-- ================= NAVIGASI ================= -->
 <h3 align="center">🧭 Navigasi Cepat</h3>
 
 <p align="center">
   <a href="#-tentang-lynx"><img src="https://img.shields.io/badge/👤_Tentang-111827?style=for-the-badge"/></a>
-  <a href="#-project--repo"><img src="https://img.shields.io/badge/📂_Project-111827?style=for-the-badge"/></a>
+  <a href="#-semua-project"><img src="https://img.shields.io/badge/📂_Project-111827?style=for-the-badge"/></a>
+  <a href="#-library--api"><img src="https://img.shields.io/badge/📦_Library_&_API-111827?style=for-the-badge"/></a>
   <a href="#-fitur-unggulan"><img src="https://img.shields.io/badge/✨_Fitur-111827?style=for-the-badge"/></a>
   <a href="#-ecosystem-lynx"><img src="https://img.shields.io/badge/📡_Ecosystem-111827?style=for-the-badge"/></a>
   <a href="#-jadibot-clone"><img src="https://img.shields.io/badge/🪄_Jadibot-111827?style=for-the-badge"/></a>
-  <a href="#-tech-stack"><img src="https://img.shields.io/badge/🛠️_Tech-111827?style=for-the-badge"/></a>
+  <a href="#-tech-stack"><img src="https://img.shields.io/badge/🧰_Tech-111827?style=for-the-badge"/></a>
   <a href="#-faq"><img src="https://img.shields.io/badge/❓_FAQ-111827?style=for-the-badge"/></a>
   <a href="#-kontak--sosmed"><img src="https://img.shields.io/badge/🌐_Kontak-111827?style=for-the-badge"/></a>
 </p>
 
 > 💡 **Tips:** Banyak bagian di bawah berupa kotak **▶ klik untuk buka**. Pencet judulnya untuk membuka/menutup isinya.
 
-<p align="center"><img src="assets/divider.svg" width="100%"/></p>
+<p align="center"><img src="divider.svg" width="100%"/></p>
 
 <!-- ================= TENTANG ================= -->
 ## 👤 Tentang Lynx
@@ -49,19 +50,23 @@
 > **Automation • WhatsApp Bot • AI Project**
 > Terima kasih atas dukungannya! Tempat eksplorasi, share & develop sistem bot.
 
+Halo, saya **Lynx** 👋 — developer yang fokus membangun **bot WhatsApp**, **bot Telegram**, **REST API**, **scraper**, dan **website** untuk komunitas. Semua project saling terhubung dalam satu ecosystem: bot memakai API Lynx, API memakai scraper, dan semuanya didokumentasikan lewat Snippets. Prinsipnya sederhana: **modular, ringan, dan tidak terpecah-pecah**.
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### ⚡ What I Do
 - 🤖 WhatsApp Multi-Device Bot
+- ✈️ Telegram Bot
 - 🧠 AI & Automation
-- 🌐 REST API
+- 🌐 REST API (sistem apikey bertingkat)
 - 🛠️ Backend Development
 - 📦 Plugin Architecture
-- 🗄️ Database Systems
+- 🗄️ Database (SQLite, Turso/LibSQL)
 - 🕷️ Scraper & Downloader
-- 🎨 Image Generator (Canvas)
+- 🎨 Image Generator (Canvas / Sharp)
+- 🌍 Web (Next.js)
 
 </td>
 <td width="50%" valign="top">
@@ -69,10 +74,12 @@
 ### 🔭 Currently Working On
 - 🧠 ERINE-AI ~ ZAPO Library
 - 🎨 Elyrine Full Costum
+- 🌠 Elyra (bot berbasis Zapo JS)
+- 📚 Elyra-Labs Baileys (library)
 - ✈️ ERNI — ERINE-AI Telegram Version
-- ⚙️ Automation Systems
-- 🔌 API Development
-- 🧰 Developer Tools
+- 🔌 Lynx Apis & Lynx Decode API
+- 🧩 Lynx Snippets V2
+- 🕷️ Scraper downloader (Termux)
 
 </td>
 </tr>
@@ -84,18 +91,36 @@
 
 | Prinsip | Penjelasan |
 |---|---|
-| 🧩 **Modular** | Setiap fitur dibuat sebagai plugin terpisah, mudah dipasang/dicabut |
-| 🔗 **Konsisten** | Satu sistem saling terhubung, tidak terpecah-pecah |
+| 🧩 **Modular** | Setiap fitur dibuat sebagai plugin terpisah, satu command satu file, mudah dipasang/dicabut |
+| 🔗 **Konsisten** | Satu sistem saling terhubung, struktur folder & gaya kode seragam antar project |
 | 🪶 **Ringan** | Hemat RAM & resource, cocok untuk panel/VPS kecil |
 | 🛡️ **Stabil** | Anti-spam, anti-crash, session aman saat trafik tinggi |
 | 🤝 **Terbuka** | Share ilmu lewat snippet, API, dan komunitas |
+| 🎯 **Teliti** | Setiap perubahan dicek dulu supaya tidak merusak bagian lain |
 
 </details>
 
-<p align="center"><img src="assets/divider.svg" width="100%"/></p>
+<details>
+<summary><b>📈 Statistik ecosystem sekilas (klik)</b></summary>
+<br>
 
-<!-- ================= PROJECT ================= -->
-## 📂 Project & Repo
+| Kategori | Jumlah | Keterangan |
+|---|---|---|
+| 🤖 Bot WhatsApp | 5+ | ERINE-AI, Elyrine, Elyra, ERINE-STARS, ERINE-MD, Li-Shiya |
+| ✈️ Bot Telegram | 1 | ERNI |
+| 📚 Library | 2 | Elyra-Labs Baileys, Elyrine Baileys |
+| 🔌 REST API | 2 | Lynx Apis, Lynx Decode API |
+| 🌐 Website | 4 | Portfolio, Snippets, Snippets V2, REST API |
+| 🕷️ Scraper | 6+ | TikTok, Instagram, YouTube, Threads, JKT48, dll |
+| 📢 Channel WA | 3 | Api's, INF Code, L-Store |
+| 💬 Grup WA | 3 | Erine (ditutup), Elyrine, Elyra |
+
+</details>
+
+<p align="center"><img src="divider.svg" width="100%"/></p>
+
+<!-- ================= SEMUA PROJECT ================= -->
+## 📂 Semua Project
 
 ### 🟢 Project Lanjutan — baru & terus dikembangkan!
 
@@ -104,7 +129,7 @@
 <td width="50%" valign="top">
 
 #### 🧠 ERINE-AI ~ ZAPO LIBRARY
-Bot WhatsApp berbasis **Zapo Library**: plugin, AI, downloader, tools, game, dan automation.
+Bot WhatsApp berbasis **Zapo Library**: plugin, AI, downloader, tools, game RPG, dan automation. Project utama yang paling aktif.
 
 <a href="https://github.com/Lynxcode-id/ERINE-AI"><img src="https://img.shields.io/badge/Open%20Repo-ERINE--AI-25D366?style=for-the-badge&logo=github&logoColor=white"/></a>
 
@@ -112,9 +137,27 @@ Bot WhatsApp berbasis **Zapo Library**: plugin, AI, downloader, tools, game, dan
 <td width="50%" valign="top">
 
 #### 🎨 Elyrine Full Costum
-Versi **full custom** dengan fitur, menu & tampilan khusus.
+Versi **full custom** dengan fitur, menu & tampilan khusus. Menjadi tempat fitur-fitur terbaru dikumpulkan.
 
 <a href="https://github.com/Lynxcode-id/elyrine"><img src="https://img.shields.io/badge/Open%20Repo-Elyrine-25D366?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 📚 Elyra-Labs Baileys
+Library WhatsApp tipe Baileys (`@elyra-labs/baileys`), **ESM-only**, fork dari `@vanzxy/baileys`, dipakai sebagai mesin bot Elyra.
+
+<a href="https://github.com/Lynxcode-id/Elyra-Labs-baileys"><img src="https://img.shields.io/badge/Open%20Repo-Elyra--Labs--Baileys-25D366?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔧 Elyrine Baileys
+Library Baileys khusus Elyrine — berisi perbaikan kompatibilitas setelah WhatsApp update (misalnya pembacaan view once).
+
+<a href="https://github.com/Lynxcode-id/elyrine-baileys"><img src="https://img.shields.io/badge/Open%20Repo-Elyrine--Baileys-25D366?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
@@ -127,7 +170,7 @@ Versi **full custom** dengan fitur, menu & tampilan khusus.
 <td width="50%" valign="top">
 
 #### 🤖 ERINE-MD
-WhatsApp Multi-Device bot dengan plugin, utilitas, downloader, manajemen grup, dan lainnya.
+WhatsApp Multi-Device bot dengan plugin, utilitas, downloader, game RPG, image generator, manajemen grup, dan lainnya.
 
 <a href="https://github.com/Lynxcode-id/ERINE-MD"><img src="https://img.shields.io/badge/Archive-ERINE--MD-6B7280?style=for-the-badge&logo=github&logoColor=white"/></a>
 
@@ -135,7 +178,7 @@ WhatsApp Multi-Device bot dengan plugin, utilitas, downloader, manajemen grup, d
 <td width="50%" valign="top">
 
 #### 💠 Li-Shiya
-Bot WhatsApp Li-Shiya MD.
+Bot WhatsApp Li-Shiya MD, dengan sistem limit harian (reset otomatis 00:00 WITA).
 
 <a href="https://github.com/Lynxcode-id/Li-Shiya-MD"><img src="https://img.shields.io/badge/Archive-Li--Shiya--MD-6B7280?style=for-the-badge&logo=github&logoColor=white"/></a>
 
@@ -144,35 +187,66 @@ Bot WhatsApp Li-Shiya MD.
 </table>
 
 <details>
-<summary><b>📊 Status ringkas semua project (klik)</b></summary>
+<summary><b>📊 Tabel status semua project (klik)</b></summary>
 <br>
 
-| Project | Library | Status | Link |
+| Project | Jenis | Engine / Stack | Status |
 |---|---|---|---|
-| ERINE-AI ~ ZAPO LIBRARY | Zapo JS | 🟢 Aktif dikembangkan | [Repo](https://github.com/Lynxcode-id/ERINE-AI) |
-| Elyrine Full Costum | Baileys | 🟢 Aktif dikembangkan | [Repo](https://github.com/Lynxcode-id/elyrine) |
-| ERNI (ERINE-AI Telegram) | Telegraf | 🟢 Aktif dikembangkan | [@Lynxcpanel_bot](https://t.me/Lynxcpanel_bot) |
-| ERINE-MD | Baileys | 🔴 Berhenti | [Repo](https://github.com/Lynxcode-id/ERINE-MD) |
-| Li-Shiya | Baileys | 🔴 Berhenti | [Repo](https://github.com/Lynxcode-id/Li-Shiya-MD) |
+| [ERINE-AI](https://github.com/Lynxcode-id/ERINE-AI) | Bot WhatsApp | Zapo JS | 🟢 Aktif |
+| [Elyrine](https://github.com/Lynxcode-id/elyrine) | Bot WhatsApp | Baileys | 🟢 Aktif |
+| Elyra | Bot WhatsApp | Zapo JS | 🟢 Aktif |
+| ERINE-STARS | Bot WhatsApp | Zapo JS | 🟢 Aktif |
+| ERNI (ERINE-AI Telegram) | Bot Telegram | Telegraf | 🟢 Aktif |
+| [Elyra-Labs Baileys](https://github.com/Lynxcode-id/Elyra-Labs-baileys) | Library | ESM, Node.js | 🟢 Aktif |
+| [Elyrine Baileys](https://github.com/Lynxcode-id/elyrine-baileys) | Library | Node.js | 🟢 Aktif |
+| Lynx Apis | REST API | Node.js | 🟢 Aktif |
+| Lynx Decode API | REST API | Node.js, Turso, Vercel | 🟢 Aktif |
+| Lynx Snippets V2 | Website | Next.js, Turso | 🟢 Aktif |
+| Lynx Decode Portfolio | Website | Web | 🟢 Aktif |
+| Lynx Decode Scrapers | Tools | Node.js, Termux | 🟢 Aktif |
+| [ERINE-MD](https://github.com/Lynxcode-id/ERINE-MD) | Bot WhatsApp | Baileys | 🔴 Berhenti |
+| [Li-Shiya MD](https://github.com/Lynxcode-id/Li-Shiya-MD) | Bot WhatsApp | Baileys | 🔴 Berhenti |
 
 </details>
 
 <details>
-<summary><b>🗺️ Roadmap & Timeline Ecosystem (klik)</b></summary>
+<summary><b>🧬 Silsilah / evolusi bot (klik)</b></summary>
+<br>
+
+```mermaid
+flowchart LR
+    A["Li-Shiya MD"] --> B["ERINE-MD"]
+    B --> C["ERINE-AI (Zapo)"]
+    B --> D["Elyrine (Full Custom)"]
+    C --> E["ERINE-STARS"]
+    C --> F["ERNI (Telegram)"]
+    D --> G["Elyra"]
+    H["Baileys Library"] --> D
+    I["Zapo Library"] --> C
+    I --> E
+    I --> G
+```
+
+</details>
+
+<details>
+<summary><b>🗺️ Roadmap & Timeline (klik)</b></summary>
 <br>
 
 ```mermaid
 timeline
     title Perjalanan LYNX ECOSYSTEM
     section Era Baileys
-        Li-Shiya MD : Bot pertama, sistem limit & menu
+        Li-Shiya MD : Bot pertama, sistem limit dan menu
         ERINE-MD : Plugin, game RPG, image generator
     section Era Zapo
         ERINE-AI : Migrasi ke Zapo Library
         Elyrine : Versi full custom
-    section Era Multi-Platform
+        Elyra : Bot baru dengan engine Zapo
+    section Era Multi Platform
         ERNI : Versi Telegram
         Lynx API : REST API untuk developer
+        Snippets : Website berbagi kode
 ```
 
 | Tahap | Target | Status |
@@ -185,7 +259,79 @@ timeline
 
 </details>
 
-<p align="center"><img src="assets/divider.svg" width="100%"/></p>
+<p align="center"><img src="divider.svg" width="100%"/></p>
+
+<!-- ================= LIBRARY & API ================= -->
+## 📦 Library & API
+
+### 📚 Library WhatsApp
+
+| Library | Paket | Catatan |
+|---|---|---|
+| Elyra-Labs Baileys | `@elyra-labs/baileys` | ESM-only, fork `@vanzxy/baileys` |
+| Elyrine Baileys | `elyrine-baileys` | Patch kompatibilitas untuk Elyrine |
+| Zapo JS | `zapo-js` | Engine ERINE-AI, ERINE-STARS, Elyra |
+
+### 🔌 Lynx REST API
+
+REST API bertingkat dengan sistem **apikey**, mendukung respons **JSON** maupun **gambar**.
+
+| Tier | Kuota |
+|---|---|
+| 👑 Developer | Unlimited |
+| 🏢 Enterprise | 5.000 / bulan |
+| 💎 Premium | 2.000 / bulan |
+| 🆓 Free | 150 / hari |
+
+<details>
+<summary><b>🧾 Format plugin & respons API (klik)</b></summary>
+<br>
+
+Setiap endpoint ditulis sebagai plugin ESM dengan struktur seragam:
+
+```js
+export default {
+  title: 'Nama Endpoint',
+  slug: 'nama-endpoint',
+  category: 'Downloader',
+  method: 'GET',
+  path: '/api/downloader/nama-endpoint',
+  description: 'Deskripsi singkat endpoint',
+  parameters: [{ name: 'url', required: true }],
+  async run(req) {
+    return { status: true, code: 200, creator: 'Lynx Apis', data: {} }
+  }
+}
+```
+
+Format respons standar:
+
+```json
+{
+  "status": true,
+  "code": 200,
+  "creator": "Lynx Apis",
+  "data": {}
+}
+```
+
+</details>
+
+### 🕷️ Lynx Decode Scrapers (Termux)
+
+Kumpulan scraper Node.js yang jalan langsung di Termux, dengan logger rapi, input lewat readline, dan output gaya Lynx API.
+
+| Scraper | Fungsi |
+|---|---|
+| TikDown | Downloader TikTok |
+| SSSTik | Downloader TikTok tanpa watermark |
+| FastDL | Downloader Instagram |
+| DownloadMedia | Downloader Instagram (alternatif) |
+| YTMP3s | YouTube ke MP3/MP4 |
+| SnapThreads | Downloader video Threads |
+| JKT48 Tracker | Cek status live member JKT48 |
+
+<p align="center"><img src="divider.svg" width="100%"/></p>
 
 <!-- ================= FITUR ================= -->
 ## ✨ Fitur Unggulan
@@ -197,10 +343,11 @@ timeline
 <br>
 
 - 🎵 **TikTok** — video, foto slide, dan audio
-- ▶️ **YouTube** — MP3/MP4, termasuk kirim ke saluran
+- ▶️ **YouTube** — MP3/MP4, termasuk kirim langsung ke saluran (channel)
 - 📸 **Instagram** — post, reel, dan album
-- 🌐 **AIO Downloader** — satu command banyak platform
+- 🌐 **AIO Downloader** — satu command untuk banyak platform (foto album, video + caption, audio)
 - 🧵 **Threads** — download video
+- 🤖 **Auto download** TikTok per grup (on/off)
 
 </details>
 
@@ -210,11 +357,13 @@ timeline
 
 - 🖼️ **HD / Upscale** gambar (2x & 4x)
 - 👁️ **Baca View Once** (RVO)
-- 🎶 **Lirik lagu** pencarian cepat
-- 🔗 **Link preview custom** — thumbnail & favicon bisa diatur
+- 🎶 **Lirik lagu** — pencarian cepat
+- 🔗 **Link preview custom** — thumbnail & favicon bisa diatur per bot
+- 🎙️ **Play** musik YouTube dan **Play Channel** ke saluran WhatsApp
 - 📢 **Broadcast & JPM** — kirim pesan massal ke grup/chat
 - 📇 **Push Kontak** — simpan nomor & kirim ke member grup
 - 🌍 **Info Gempa otomatis** dan status bot (`pingall`)
+- 🎭 **Sticker** TikTok
 
 </details>
 
@@ -223,10 +372,12 @@ timeline
 <br>
 
 - 📱 Notifikasi iPhone (WhatsApp & TikTok)
-- 💬 Quote chat gaya iPhone
-- 📝 Catatan Instagram & kartu kutipan
+- 💬 Quote chat gaya iPhone (IQC) dengan emoji Apple
+- 📝 Catatan Instagram & kartu kutipan IG
 - 📞 Fake call Discord
-- 📸 Polaroid, grid foto iOS, post channel Telegram
+- 📸 Polaroid, grid foto iOS, menu iMessage
+- ✈️ Post channel Telegram
+- 🟩 Greenscreen — foto masuk ke template
 - 🧾 Profil RPG berbentuk kartu gambar
 
 </details>
@@ -235,9 +386,9 @@ timeline
 <summary><b>🎮 Game & RPG</b></summary>
 <br>
 
-- 🐺 **Werewolf** — lobi, peran, fase malam/siang, taruhan
-- 🧙 **Profil RPG** — level, EXP, keuangan, keluarga
-- 🏆 **Leaderboard** total pesan harian/bulanan/semua
+- 🐺 **Werewolf** — lobi, peran, fase malam/siang, taruhan, toko, statistik
+- 🧙 **Profil RPG** — level, EXP, keuangan, asmara & keluarga
+- 🏆 **Leaderboard** total pesan harian / bulanan / semua
 - 💰 Database RPG terpisah agar bot utama tetap ringan
 
 </details>
@@ -249,8 +400,9 @@ timeline
 - 🛡️ Antispam command (batas hit, tenggang, ban otomatis)
 - 🔒 Tutup grup otomatis saat terlalu ramai
 - ⏱️ Sistem limit user dengan reset otomatis tiap 00:00 WITA
-- 💎 Paket **Premium** & **Sewa Grup**
-- ☁️ Kelola VPS & server langsung dari bot
+- 💎 Paket **Premium** & **Sewa Grup** (pricelist lewat command)
+- ☁️ Kelola **VPS** & server langsung dari bot
+- 🔐 Penyimpanan session aman saat trafik tinggi
 
 </details>
 
@@ -261,10 +413,22 @@ timeline
 - 🎙️ Menu dengan **voice note** otomatis
 - 🎧 Rich music player **LYNX AUDIO**
 - 📋 Menu auto-scan plugin (WhatsApp & Telegram)
+- 🖼️ Menu dengan link preview bergambar
 
 </details>
 
-<p align="center"><img src="assets/divider.svg" width="100%"/></p>
+<details>
+<summary><b>✈️ ERNI — Bot Telegram</b></summary>
+<br>
+
+- 📋 Menu otomatis hasil scan plugin, command `/menu all`
+- 💾 Simpan plugin langsung dari chat (`/sp`)
+- 🎙️ Voice menu
+- 🔗 Sinkron dengan fitur ERINE-AI
+
+</details>
+
+<p align="center"><img src="divider.svg" width="100%"/></p>
 
 <!-- ================= ECOSYSTEM ================= -->
 ## 📡 Ecosystem Lynx
@@ -289,7 +453,7 @@ timeline
 </tr>
 <tr>
 <td>🧩 Snippets V2</td>
-<td>Snippet Labs versi 2</td>
+<td>Snippet Labs versi 2 (login Google, API key bertingkat)</td>
 <td><a href="https://lynxsnippets2.web.id">lynxsnippets2.web.id</a></td>
 </tr>
 <tr>
@@ -343,29 +507,33 @@ timeline
 > Group chat **Erine AI** saat ini **ditutup** dan tidak menerima request masuk. Yang terbuka saat ini hanya grup **Li Shiya MD** dan **Elyra** saja.
 
 <details>
-<summary><b>🗺️ Peta Hubungan Ecosystem (klik)</b></summary>
+<summary><b>🗺️ Peta hubungan ecosystem (klik)</b></summary>
 <br>
 
 ```mermaid
 flowchart LR
-    L([🧑‍💻 LYNX]) --> B[🤖 Bot WhatsApp]
-    L --> T[✈️ Bot Telegram]
-    L --> W[🌐 Website]
-    B --> E1[ERINE-AI · Zapo]
-    B --> E2[Elyrine · Custom]
-    B --> E3[ERINE-MD · Arsip]
-    T --> ERNI[ERNI]
-    W --> P[Portfolio]
-    W --> S[Snippets]
-    W --> A[REST API]
+    L(["LYNX"]) --> B["Bot WhatsApp"]
+    L --> T["Bot Telegram"]
+    L --> W["Website"]
+    L --> S["Scraper Termux"]
+    B --> E1["ERINE-AI (Zapo)"]
+    B --> E2["Elyrine (Custom)"]
+    B --> E3["Elyra"]
+    B --> E4["ERINE-MD (Arsip)"]
+    T --> ERNI["ERNI"]
+    W --> P["Portfolio"]
+    W --> SN["Snippets"]
+    W --> A["REST API"]
+    S --> A
     A -. dipakai .-> E1
     A -. dipakai .-> E2
+    A -. dipakai .-> E3
     A -. dipakai .-> ERNI
 ```
 
 </details>
 
-<p align="center"><img src="assets/divider.svg" width="100%"/></p>
+<p align="center"><img src="divider.svg" width="100%"/></p>
 
 <!-- ================= JADIBOT ================= -->
 ## 🪄 JADIBOT CLONE
@@ -373,22 +541,22 @@ flowchart LR
 **100% Free!** Jadikan nomor kamu sebagai bot sendiri.
 
 <details open>
-<summary><b>📖 Cara Pakai (klik untuk tutup/buka)</b></summary>
+<summary><b>📖 Cara pakai (klik untuk tutup/buka)</b></summary>
 <br>
 
 1. 🔗 Join grup community
 2. ⌨️ Ketik `.jadibot`
-3. 📲 Ikuti instruksi dari bot (pairing code / scan QR)
+3. 📲 Ikuti instruksi dari bot
 4. ✅ Bot kamu aktif
 
 </details>
 
 > ⚠️ **Note:** Gunakan dengan segala risiko tanggungan diri sendiri.
 
-<p align="center"><img src="assets/divider.svg" width="100%"/></p>
+<p align="center"><img src="divider.svg" width="100%"/></p>
 
 <!-- ================= TECH ================= -->
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,js,html,css,nextjs,git,github,docker,vscode,linux,npm,sqlite&theme=dark"/>
@@ -400,6 +568,8 @@ flowchart LR
   <img src="https://img.shields.io/badge/Telegram-Telegraf-26A5E4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/REST-API-25D366?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SQLite-Database-25D366?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Turso-LibSQL-25D366?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vercel-Deploy-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Automation-Systems-25D366?style=for-the-badge"/>
 </p>
 
@@ -411,20 +581,40 @@ flowchart LR
  Pesan masuk
      │
      ▼
- ┌─────────────┐   ┌───────────────┐   ┌──────────────┐
- │  Handler    │──▶│ Antispam/Limit│──▶│ Plugin Loader│
- └─────────────┘   └───────────────┘   └──────┬───────┘
-                                              │
-        ┌───────────────┬──────────────┬──────┴───────┐
+ ┌─────────────┐   ┌────────────────┐   ┌──────────────┐
+ │  Handler    │──▶│ Antispam/Limit │──▶│ Plugin Loader│
+ └─────────────┘   └────────────────┘   └──────┬───────┘
+                                               │
+        ┌───────────────┬──────────────┬───────┴──────┐
         ▼               ▼              ▼              ▼
    Downloader        Tools         Game/RPG      Image Canvas
         │               │              │              │
-        └───────────────┴──── lib/ + Database (SQLite) ┘
+        └───────────────┴─── lib/ + Database ─────────┘
 ```
 
 </details>
 
-<p align="center"><img src="assets/divider.svg" width="100%"/></p>
+<details>
+<summary><b>📁 Struktur folder umum bot (klik)</b></summary>
+<br>
+
+```text
+bot/
+├── plugins/        # satu command satu file
+│   ├── downloader/
+│   ├── tool/
+│   ├── image/
+│   ├── rpg/
+│   └── owner/
+├── lib/            # helper bersama (db, canvas, album, dll)
+├── scrape/         # scraper internal
+├── config.js       # pengaturan bot
+└── index.js        # entry point
+```
+
+</details>
+
+<p align="center"><img src="divider.svg" width="100%"/></p>
 
 <!-- ================= SNAKE & STATS ================= -->
 ## 🐍 Contribution Snake
@@ -449,6 +639,8 @@ flowchart LR
 <tr><th>Repo</th><th>⭐ Stars / Forks</th><th>🕒 Last Commit</th><th>💻 Bahasa</th><th>📦 Size</th></tr>
 <tr><td><a href="https://github.com/Lynxcode-id/ERINE-AI"><b>ERINE-AI</b></a></td><td><img src="https://img.shields.io/github/stars/Lynxcode-id/ERINE-AI?style=flat-square&color=25D366&labelColor=111827"/> <img src="https://img.shields.io/github/forks/Lynxcode-id/ERINE-AI?style=flat-square&color=25D366&labelColor=111827"/></td><td><img src="https://img.shields.io/github/last-commit/Lynxcode-id/ERINE-AI?style=flat-square&color=25D366&labelColor=111827"/></td><td><img src="https://img.shields.io/github/languages/top/Lynxcode-id/ERINE-AI?style=flat-square&color=25D366&labelColor=111827"/></td><td><img src="https://img.shields.io/github/repo-size/Lynxcode-id/ERINE-AI?style=flat-square&color=25D366&labelColor=111827"/></td></tr>
 <tr><td><a href="https://github.com/Lynxcode-id/elyrine"><b>Elyrine</b></a></td><td><img src="https://img.shields.io/github/stars/Lynxcode-id/elyrine?style=flat-square&color=25D366&labelColor=111827"/> <img src="https://img.shields.io/github/forks/Lynxcode-id/elyrine?style=flat-square&color=25D366&labelColor=111827"/></td><td><img src="https://img.shields.io/github/last-commit/Lynxcode-id/elyrine?style=flat-square&color=25D366&labelColor=111827"/></td><td><img src="https://img.shields.io/github/languages/top/Lynxcode-id/elyrine?style=flat-square&color=25D366&labelColor=111827"/></td><td><img src="https://img.shields.io/github/repo-size/Lynxcode-id/elyrine?style=flat-square&color=25D366&labelColor=111827"/></td></tr>
+<tr><td><a href="https://github.com/Lynxcode-id/Elyra-Labs-baileys"><b>Elyra-Labs Baileys</b></a></td><td><img src="https://img.shields.io/github/stars/Lynxcode-id/Elyra-Labs-baileys?style=flat-square&color=25D366&labelColor=111827"/> <img src="https://img.shields.io/github/forks/Lynxcode-id/Elyra-Labs-baileys?style=flat-square&color=25D366&labelColor=111827"/></td><td><img src="https://img.shields.io/github/last-commit/Lynxcode-id/Elyra-Labs-baileys?style=flat-square&color=25D366&labelColor=111827"/></td><td><img src="https://img.shields.io/github/languages/top/Lynxcode-id/Elyra-Labs-baileys?style=flat-square&color=25D366&labelColor=111827"/></td><td><img src="https://img.shields.io/github/repo-size/Lynxcode-id/Elyra-Labs-baileys?style=flat-square&color=25D366&labelColor=111827"/></td></tr>
+<tr><td><a href="https://github.com/Lynxcode-id/elyrine-baileys"><b>Elyrine Baileys</b></a></td><td><img src="https://img.shields.io/github/stars/Lynxcode-id/elyrine-baileys?style=flat-square&color=25D366&labelColor=111827"/> <img src="https://img.shields.io/github/forks/Lynxcode-id/elyrine-baileys?style=flat-square&color=25D366&labelColor=111827"/></td><td><img src="https://img.shields.io/github/last-commit/Lynxcode-id/elyrine-baileys?style=flat-square&color=25D366&labelColor=111827"/></td><td><img src="https://img.shields.io/github/languages/top/Lynxcode-id/elyrine-baileys?style=flat-square&color=25D366&labelColor=111827"/></td><td><img src="https://img.shields.io/github/repo-size/Lynxcode-id/elyrine-baileys?style=flat-square&color=25D366&labelColor=111827"/></td></tr>
 <tr><td><a href="https://github.com/Lynxcode-id/ERINE-MD"><b>ERINE-MD</b></a></td><td><img src="https://img.shields.io/github/stars/Lynxcode-id/ERINE-MD?style=flat-square&color=25D366&labelColor=111827"/> <img src="https://img.shields.io/github/forks/Lynxcode-id/ERINE-MD?style=flat-square&color=25D366&labelColor=111827"/></td><td><img src="https://img.shields.io/github/last-commit/Lynxcode-id/ERINE-MD?style=flat-square&color=25D366&labelColor=111827"/></td><td><img src="https://img.shields.io/github/languages/top/Lynxcode-id/ERINE-MD?style=flat-square&color=25D366&labelColor=111827"/></td><td><img src="https://img.shields.io/github/repo-size/Lynxcode-id/ERINE-MD?style=flat-square&color=25D366&labelColor=111827"/></td></tr>
 <tr><td><a href="https://github.com/Lynxcode-id/Li-Shiya-MD"><b>Li-Shiya-MD</b></a></td><td><img src="https://img.shields.io/github/stars/Lynxcode-id/Li-Shiya-MD?style=flat-square&color=25D366&labelColor=111827"/> <img src="https://img.shields.io/github/forks/Lynxcode-id/Li-Shiya-MD?style=flat-square&color=25D366&labelColor=111827"/></td><td><img src="https://img.shields.io/github/last-commit/Lynxcode-id/Li-Shiya-MD?style=flat-square&color=25D366&labelColor=111827"/></td><td><img src="https://img.shields.io/github/languages/top/Lynxcode-id/Li-Shiya-MD?style=flat-square&color=25D366&labelColor=111827"/></td><td><img src="https://img.shields.io/github/repo-size/Lynxcode-id/Li-Shiya-MD?style=flat-square&color=25D366&labelColor=111827"/></td></tr>
 </table>
@@ -460,7 +652,7 @@ flowchart LR
   <a href="https://github.com/Lynxcode-id"><img src="https://ghchart.rshah.org/25D366/Lynxcode-id" alt="Contribution chart Lynxcode-id" width="100%"/></a>
 </p>
 
-<p align="center"><img src="assets/divider.svg" width="100%"/></p>
+<p align="center"><img src="divider.svg" width="100%"/></p>
 
 <!-- ================= FAQ ================= -->
 ## ❓ FAQ
@@ -472,15 +664,22 @@ Jadibot clone <b>100% gratis</b>. Fitur Premium & Sewa Grup tersedia untuk akses
 </details>
 
 <details>
-<summary><b>Beda ERINE-AI, Elyrine, dan ERINE-MD?</b></summary>
+<summary><b>Beda ERINE-AI, Elyrine, Elyra, dan ERINE-MD?</b></summary>
 <br>
 
-| Bot | Library | Ciri |
+| Bot | Engine | Ciri |
 |---|---|---|
 | ERINE-AI | Zapo JS | Versi utama yang aktif, plugin lengkap |
 | Elyrine | Baileys | Versi full custom, menu & tampilan khusus |
+| Elyra | Zapo JS | Bot baru dengan plugin downloader & tools |
 | ERINE-MD | Baileys | Versi lama, sudah berhenti |
 
+</details>
+
+<details>
+<summary><b>Apa itu Baileys dan Zapo JS?</b></summary>
+<br>
+Keduanya adalah library untuk menghubungkan Node.js ke WhatsApp Multi-Device. Baileys lebih dulu populer, sedangkan Zapo JS dipakai pada project-project terbaru Lynx.
 </details>
 
 <details>
@@ -501,7 +700,7 @@ Buka <b>Issues</b> di repo terkait, atau chat Support (lihat bagian Kontak). Ser
 Admin tidak online 24 jam. Mohon sabar dan jangan spam chat/telepon.
 </details>
 
-<p align="center"><img src="assets/divider.svg" width="100%"/></p>
+<p align="center"><img src="divider.svg" width="100%"/></p>
 
 <!-- ================= KONTAK ================= -->
 ## 🌐 Kontak & Sosmed
@@ -539,7 +738,7 @@ Admin tidak online 24 jam. Mohon sabar dan jangan spam chat/telepon.
   <a href="https://ngl.link/lynxdsinii"><img src="https://img.shields.io/badge/NGL-Kirim%20Pesan%20Anonim-FF3B6B?style=for-the-badge"/></a>
 </p>
 
-<p align="center"><img src="assets/divider.svg" width="100%"/></p>
+<p align="center"><img src="divider.svg" width="100%"/></p>
 
 ## ⚠️ Notes
 
@@ -559,7 +758,7 @@ Admin tidak online 24 jam. Mohon sabar dan jangan spam chat/telepon.
 </p>
 
 <p align="center">
-  <img src="assets/footer.svg" alt="footer particles" width="100%"/>
+  <img src="footer.svg" alt="footer particles" width="100%"/>
 </p>
 
 <p align="center"><sub>© Lynx Decode • Developer & Builder</sub></p>

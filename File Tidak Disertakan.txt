@@ -1,0 +1,6 @@
+File-file yang tidak disertakan dalam file zip ini karena tidak dapat ditemukan:
+- outputs/assets/particles.svg
+- outputs/assets/divider.svg
+- outputs/assets/footer.svg
+
+Untuk mendapatkan file yang ada di daftar ini, minta Claude untuk membuat ulang file tersebut di obrolan aslinya.
