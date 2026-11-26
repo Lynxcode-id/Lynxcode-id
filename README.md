@@ -253,7 +253,7 @@ flowchart LR
 </p>
 
 <p align="center">
-  <a href="https://github.com/Lynxcode-id/Elyra-Labs-baileys"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lynxcode-id&repo=Elyra-Labs-baileys&bg_color=0A0F1E&title_color=00F0FF&text_color=E5E7EB&icon_color=25D366&border_color=0B3D5C" width="48%"/></a>
+  <a href="https://github.com/Lynxcode-id/elyrine-baileys"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lynxcode-id&repo=elyrine-baileys&bg_color=0A0F1E&title_color=00F0FF&text_color=E5E7EB&icon_color=25D366&border_color=0B3D5C" width="48%"/></a>
   <a href="https://github.com/Lynxcode-id/PLUGINS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lynxcode-id&repo=PLUGINS&bg_color=0A0F1E&title_color=00F0FF&text_color=E5E7EB&icon_color=25D366&border_color=0B3D5C" width="48%"/></a>
 </p>
 
